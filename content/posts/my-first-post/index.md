@@ -5,7 +5,7 @@ This blog is where I document what I learn and explore topics that interest me.
 
 Feel free to connect with me!
 
-I like PingPong
+I like PingPong and Snooker
 
 ![snooker](snooker.jpeg)
 ![Photo](IMG_0784.JPG)
