@@ -8,6 +8,8 @@ Feel free to connect with me!
 I like PingPong
 
 ![snooker](snooker.jpeg)
+![Photo](IMG_0784.JPG)
+
 
 Some description here.
 
