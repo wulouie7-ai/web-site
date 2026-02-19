@@ -1,8 +1,6 @@
 backend:
-  name: github
-  repo: wulouie7-ai/web-site
+  name: git-gateway
   branch: main
-  base_url: https://decap-cms-oauth.netlify.app
 
 media_folder: "static/images"
 public_folder: "/images"
