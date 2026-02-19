@@ -1,7 +1,10 @@
 backend:
   name: github
-  repo: wulouie7-ai.github.io/web-site
+  repo: wulouie7-ai/web-site
   branch: main
+  base_url: https://decap-cms-oauth.netlify.app
+  auth_endpoint: auth
+
 
 media_folder: "static/images"
 public_folder: "/images"
