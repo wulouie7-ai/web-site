@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/web-site/posts/my-first-post/</loc>
+    <loc>https://wulouie7-ai.github.io/web-site/posts/my-first-post/</loc>
   </url><url>
-    <loc>http://localhost:1313/web-site/categories/</loc>
+    <loc>https://wulouie7-ai.github.io/web-site/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/web-site/</loc>
+    <loc>https://wulouie7-ai.github.io/web-site/</loc>
   </url><url>
-    <loc>http://localhost:1313/web-site/posts/</loc>
+    <loc>https://wulouie7-ai.github.io/web-site/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/web-site/tags/</loc>
+    <loc>https://wulouie7-ai.github.io/web-site/tags/</loc>
   </url>
 </urlset>
